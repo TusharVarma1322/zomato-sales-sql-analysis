@@ -1,7 +1,7 @@
 # 🍽️ Zomato Sales & Analytics SQL Project
 
 <p align="center">
-  <img src="images/zomato_schema.png" alt="Zomato ER Diagram" width="500">
+  <img src="images/zomato_schema.png" alt="zomato_schema" width="500">
 </p>
 
 ## 📋 Table of Contents
