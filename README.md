@@ -18,13 +18,13 @@
 - [Future Improvements](#future-improvements)
 ---
 
-## 🎯 Project Overview
+## <a name="project-overview"></a>🎯 Project Overview
 
 This SQL project analyzes the sales, performance, customer behavior and operational metrics for an online food delivery system modeled after Zomato. The goal is to answer business-critical questions such as revenue trends, popular menu items, top customers, and more using a relational database.
 
 ---
 
-## ❓ Business Questions
+## <a name="business-questions"></a>❓ Business Questions
 
 Key questions addressed in this analysis:
 | # | Question |
@@ -47,7 +47,7 @@ Key questions addressed in this analysis:
 
 ---
 
-## 🗄️ Dataset Description
+## <a name="dataset-description"></a>🗄️ Dataset Description
 
 ### Database: `zomatodb`
 
@@ -69,13 +69,13 @@ The project uses a normalized dataset with the following tables:
 
 ---
 
-## 🔬 Methodology
+## <a name="methodology"></a>🔬 Methodology
 
 The analysis is performed fully in SQL through subqueries, joins, aggregations and window functions. Each business question (see above) is solved through precise SELECT statements, joining and grouping across related tables.
 
 ---
 
-## 💻 SQL Solution Approach
+## <a name="sql-solution-approach"></a>💻 SQL Solution Approach
 
 For each metric and business question, standard SQL approaches are employed:
 - JOINs for relational context (customer, restaurant, food, order)
@@ -89,7 +89,7 @@ All queries are available in the `sql/` directory.
 
 ---
 
-## 📈 Results
+## <a name="results"></a>📈 Results
 
 Highlights include:
 - **Top customers** by order count
@@ -101,11 +101,11 @@ Highlights include:
 - **Total payment breakdown** by payment type
 - **Order patterns by weekday/weekend, month**
 
-(See full result tables in `docs/interpretation.md` and query outputs.)
+(See full result tables in [`docs/interpretation.md`](docs/interpretation.md) and query outputs.)
 
 ---
 
-## 💡 Key Insights & Interpretation
+## <a name="key-insights--interpretation"></a>💡 Key Insights & Interpretation
 
 - Customer and food order behavior is highly concentrated – some users are much more frequent and some foods much more popular.
 - Revenue is not evenly distributed—certain restaurants and dishes dominate.
@@ -117,19 +117,21 @@ For detailed interpretation, see [`docs/interpretation.md`](docs/interpretation.
 
 ---
 
-## 🛠️ Technical Skills Demonstrated
+## <a name="technical-skills-demonstrated"></a>🛠️ Technical Skills Demonstrated
 
 | Category | Skills                 |
 |----------|------------------------|
-| **SQL Joins**     | Multiple-table inner & left joins |
-| **Aggregations**  | SUM, COUNT, AVG, MIN, MAX |
+| **SQL Joins** | Multiple-table inner & left joins |
+| **Aggregations** | SUM, COUNT, AVG, MIN, MAX |
 | **Date Handling** | DATEDIFF, MONTH, DAYOFWEEK |
 | **Window Functions** | RANK, DENSE_RANK, PARTITION BY |
-| **Subqueries**    | Derived tables for advanced metrics |
+| **Subqueries** | Derived tables for advanced metrics |
 | **Statistical Analysis** | Averages, modes, ranking |
 | **Business Logic**| Translating requirements into SQL |
 
 ---
+
+## <a name="project-structure"></a>📁 Project Structure
 
 ## 📁 Project Structure
 
@@ -155,7 +157,7 @@ zomato-sales-analytics/
 
 ---
 
-## 🚀 How to Run
+## <a name="how-to-run"></a>🚀 How to Run
 
 ### Prerequisites
 - MySQL Server 8.0+ (or compatible SQL engine)
@@ -165,8 +167,7 @@ zomato-sales-analytics/
 
 1. **Clone this repository**
    ```bash
-   git clone https://github.com/TusharVarma077/zomato-sales-analytics.git
-   ```
+   git clone [https://github.com/TusharVarma077/zomato-sales-analytics.git](https://github.com/TusharVarma077/zomato-sales-analytics.git)
 
 2. **Import the database**
    ```sql
