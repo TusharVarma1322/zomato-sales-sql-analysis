@@ -208,4 +208,4 @@ zomato-sales-analytics/
 
 ---
 
-*Project completed: December 2025*
+*Project completed: August 2025*
