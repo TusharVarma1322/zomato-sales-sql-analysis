@@ -4,7 +4,7 @@
   <img src="images/Zomatadf_Schema.PNG" alt="Zomato ER Diagram" width="500">
 </p>
 
-## 📋 Table of Contents
+## 📋 Table of Contents:
 - [Project Overview](#project-overview)
 - [Business Questions](#business-questions)
 - [Dataset Description](#dataset-description)
