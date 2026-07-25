@@ -24,7 +24,7 @@ This SQL project analyzes the sales, performance, customer behavior and operatio
 
 ---
 
-## <a name="business-questions"></a>❓ Business Questions
+## <a name="business-questions"></a>❓ Business Questions:
 
 Key questions addressed in this analysis:
 | # | Question |
