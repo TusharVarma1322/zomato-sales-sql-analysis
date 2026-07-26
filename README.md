@@ -18,7 +18,7 @@
 - [Future Improvements](#future-improvements)
 ---
 
-## <a name="project-overview"></a>🎯 Project Overview
+## <a name="project-overview"></a>🎯 Project Overview:
 
 This SQL project analyzes the sales, performance, customer behavior and operational metrics for an online food delivery system modeled after Zomato. The goal is to answer business-critical questions such as revenue trends, popular menu items, top customers, and more using a relational database.
 
