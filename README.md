@@ -47,7 +47,7 @@ Key questions addressed in this analysis:
 
 ---
 
-## <a name="dataset-description"></a>🗄️ Dataset Description
+## <a name="dataset-description"></a>🗄️ Dataset Description:
 
 ### Database: `zomatodb`
 
