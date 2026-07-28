@@ -69,7 +69,7 @@ The project uses a normalized dataset with the following tables:
 
 ---
 
-## <a name="methodology"></a>🔬 Methodology
+## <a name="methodology"></a>🔬 Methodology:
 
 The analysis is performed fully in SQL through subqueries, joins, aggregations and window functions. Each business question (see above) is solved through precise SELECT statements, joining and grouping across related tables.
 
