@@ -75,7 +75,7 @@ The analysis is performed fully in SQL through subqueries, joins, aggregations a
 
 ---
 
-## <a name="sql-solution-approach"></a>💻 SQL Solution Approach
+## <a name="sql-solution-approach"></a>💻 SQL Solution Approach:
 
 For each metric and business question, standard SQL approaches are employed:
 - JOINs for relational context (customer, restaurant, food, order)
