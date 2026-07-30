@@ -89,7 +89,7 @@ All queries are available in the `sql/` directory.
 
 ---
 
-## <a name="results"></a>📈 Results
+## <a name="results"></a>📈 Results:
 
 Highlights include:
 - **Top customers** by order count
