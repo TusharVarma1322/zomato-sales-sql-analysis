@@ -105,7 +105,7 @@ Highlights include:
 
 ---
 
-## <a name="key-insights--interpretation"></a>💡 Key Insights & Interpretation
+## <a name="key-insights--interpretation"></a>💡 Key Insights & Interpretation:
 
 - Customer and food order behavior is highly concentrated – some users are much more frequent and some foods much more popular.
 - Revenue is not evenly distributed—certain restaurants and dishes dominate.
