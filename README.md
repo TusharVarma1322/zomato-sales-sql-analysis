@@ -117,7 +117,7 @@ For detailed interpretation, see [`docs/interpretation.md`](docs/interpretation.
 
 ---
 
-## <a name="technical-skills-demonstrated"></a>🛠️ Technical Skills Demonstrated
+## <a name="technical-skills-demonstrated"></a>🛠️ Technical Skills Demonstrated:
 
 | Category | Skills                 |
 |----------|------------------------|
