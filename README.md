@@ -133,7 +133,7 @@ For detailed interpretation, see [`docs/interpretation.md`](docs/interpretation.
 
 ## <a name="project-structure"></a>📁 Project Structure
 
-## 📁 Project Structure
+## 📁 Project Structure:
 
 ```
 zomato-sales-analytics/
