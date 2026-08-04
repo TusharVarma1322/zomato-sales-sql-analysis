@@ -182,7 +182,7 @@ zomato-sales-analytics/
 
 ---
 
-## 🔜 Future Improvements
+## 🔜 Future Improvements:
 
 - [ ] Python/Jupyter analytics for deeper statistics & visualization
 - [ ] Detailed cohort & segmented behavioral analysis
