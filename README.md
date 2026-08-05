@@ -192,7 +192,7 @@ zomato-sales-analytics/
 
 ---
 
-## 📚 What I Learned
+## 📚 What I Learned:
 
 - Designing normalized schemas for analytics
 - Solving realistic business issues with SQL only
