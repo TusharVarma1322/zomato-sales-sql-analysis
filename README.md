@@ -157,7 +157,7 @@ zomato-sales-analytics/
 
 ---
 
-## <a name="how-to-run"></a>🚀 How to Run
+## <a name="how-to-run"></a>🚀 How to Run:
 
 ### Prerequisites
 - MySQL Server 8.0+ (or compatible SQL engine)
