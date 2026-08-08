@@ -163,7 +163,7 @@ zomato-sales-analytics/
 - MySQL Server 8.0+ (or compatible SQL engine)
 - MySQL Workbench or preferred SQL client
 
-### Steps
+### Steps:
 
 1. **Clone this repository**
    ```bash
